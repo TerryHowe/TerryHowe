@@ -1,4 +1,4 @@
-# Terry Howe (preferred: Terry)
+# Terry Howe
 **Pronouns**: He/Him/His
 
 - 👨‍💻 I am a Software Development Engineer III at AWS (:calendar:November 2020 - present).

@@ -1,4 +1,4 @@
-# Terry Howe
+# Terry Howe ![](https://komarev.com/ghpvc/?username=TerryHowe&color=green&&style=flat) 
 
 - 👨 I was a Software Development Engineer III at AWS November 2020 - 2024.
 - 💻 Currently looking for next adventure

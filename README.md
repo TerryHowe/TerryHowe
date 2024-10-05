@@ -12,6 +12,7 @@
 </p>
 
 ### :octocat: Github Statistics
+I think these statistics are based on repositories I have created rather than forked:
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TerryHowe&layout=compact&hide=html&theme=radical" alt="TerryHowe"/>
 </p>

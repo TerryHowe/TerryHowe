@@ -9,8 +9,12 @@
 
 ### 🎖 Certificates
 <p align="left">
-[<img src="https://github.com/cncf/artwork/blob/main/other/ckad/color/kubernetes-ckad-color.png?raw=true" alt="CKAD" width="100" height="100"/>](href="https://www.credly.com/badges/55d37421-1224-4fad-ac37-90dd7a97d215)
-<a href="https://www.credly.com/badges/7f497d84-973c-4999-8c71-3491e4268200"><img src="https://github.com/cncf/artwork/blob/main/other/cka/color/kubernetes-cka-color.png?raw=true" alt="https://www.credly.com/badges/7f497d84-973c-4999-8c71-3491e4268200" width="100" height="100"/></a>
+<a href="href="https://www.credly.com/badges/55d37421-1224-4fad-ac37-90dd7a97d215">
+<img src="https://github.com/cncf/artwork/blob/main/other/ckad/color/kubernetes-ckad-color.png?raw=true" alt="CKAD" width="100" height="100"/>
+</a>
+<a href="https://www.credly.com/badges/7f497d84-973c-4999-8c71-3491e4268200">
+<img src="https://github.com/cncf/artwork/blob/main/other/cka/color/kubernetes-cka-color.png?raw=true" alt="CKA" width="100" height="100"/>
+</a>
 </p>
 
 ### :octocat: Github Statistics

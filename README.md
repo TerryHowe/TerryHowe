@@ -1,11 +1,22 @@
-# Terry Howe ![](https://komarev.com/ghpvc/?username=TerryHowe&color=green&&style=flat) 
+# Terry Howe ![](https://komarev.com/ghpvc/?username=TerryHowe&color=green&&style=flat)
 
-- 👨 I was a Software Development Engineer III at AWS November 2020 - 2024.
-- 💻 Currently looking for next adventure
-- 🌱 I am a maintainer for the [OCI Registry as Storage (ORAS) Project](https://github.com/oras-project)
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/terrylhowe).
+Cloud-native engineer passionate about container tooling and OCI standards.
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=TerryHowe&count_private=true&show_icons=true&theme=blue-green)
+- 👨‍💻 Former SDE III at AWS (2020-2024)
+- 🌱 [ORAS Project](https://github.com/oras-project) org maintainer — [CLI](https://github.com/oras-project/oras), [Go SDK](https://github.com/oras-project/oras-go), [Website](https://oras.land)
+- ⎈ [Helm](https://github.com/helm) project maintainer - [Helm](https://github.com/helm/helm), [Website](https://helm.sh)
+
+[![Blog](https://img.shields.io/badge/Blog-WordPress-21759B?style=flat&logo=wordpress)](https://terryhowe.wordpress.com/)
+[![X](https://img.shields.io/badge/X-@Terry__Howe-000000?style=flat&logo=x)](https://x.com/Terry_Howe)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-terrylhowe-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/terrylhowe)
+
+### 🛠 Technologies
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Helm](https://img.shields.io/badge/-Helm-0F1689?style=flat&logo=helm&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 
 ### 🎖 Certifications
 <p align="left">
@@ -15,7 +26,10 @@
 </p>
 
 ### :octocat: Github Statistics
-I think these statistics are based on repositories I have created rather than forked:
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=TerryHowe&count_private=true&show_icons=true&theme=blue-green)
+
+Most of my work lately has been in Go. These statistics are based on repositories I have created rather than forked:
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TerryHowe&layout=compact&hide=html&theme=radical" alt="TerryHowe"/>
 </p>

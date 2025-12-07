@@ -2,8 +2,9 @@
 
 Cloud-native engineer passionate about container tooling and OCI standards.
 
-- 👨‍💻 Former SDE III at AWS (2020-2024)
-- 🌱 [ORAS Project](https://github.com/oras-project) org maintainer — [CLI](https://github.com/oras-project/oras), [Go SDK](https://github.com/oras-project/oras-go), [Website](https://oras.land)
+- 🤖 Currently NVIDIA DGX Cloud
+- ☁️  Former SDE III at AWS EKS (2020-2024)
+- 📦 [ORAS Project](https://github.com/oras-project) org maintainer — [CLI](https://github.com/oras-project/oras), [Go SDK](https://github.com/oras-project/oras-go), [Website](https://oras.land)
 - ⎈ [Helm](https://github.com/helm) project maintainer - [Helm](https://github.com/helm/helm), [Website](https://helm.sh)
 
 [![Blog](https://img.shields.io/badge/Blog-WordPress-21759B?style=flat&logo=wordpress)](https://terryhowe.wordpress.com/)
